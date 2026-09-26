@@ -1,0 +1,4 @@
+bin/
+obj/
+data/q-table.json
+.env
